@@ -6,4 +6,4 @@ Bu depo GitHub'ı öğrenirken oluşturduğum ilk depo.
 - ** Bilgisayar Mühendisliği öğrencisiyim.**
 
 
--[ilk programım](kodlar/ilkproje.cpp)
+-[ilk programım](kodlar/ilk_proje.cpp)
