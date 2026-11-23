@@ -7,5 +7,5 @@ Bu depo GitHub'ı öğrenirken oluşturduğum ilk depo.
 
 
 [ilk programım](kodlar/ilk_proje.cpp)
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 ![bernard](bernard.png)
