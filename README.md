@@ -8,4 +8,4 @@ Bu depo GitHub'ı öğrenirken oluşturduğum ilk depo.
 
 [ilk programım](kodlar/ilk_proje.cpp)
 
-![bernard](bernard.jpg)
+![bernard](bernard.png)
